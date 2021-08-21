@@ -2,7 +2,7 @@
 opencv cpp canny edge and turtle
 
 For cpp file on the linux. 
-Need a opencv development file.
+Need a opencv development file. And you run cpp file after detect xml file. sometimes xml file not valid.
 
 `cmake . && make && ./opencv`
 
