@@ -1,13 +1,15 @@
 # canny-edge-turtle
 opencv cpp canny edge and turtle
+
 For cpp file on the linux. 
 Need a opencv development file.
 
-cmake . && make && ./opencv
+`cmake . && make && ./opencv`
 
 
 for python file 
-python img-canny-point-turtle.py
+
+` python img-canny-point-turtle.py`
 
 ![image](https://user-images.githubusercontent.com/49458946/130325961-e345a18e-efff-4812-bf92-3640b359601d.png)
 
